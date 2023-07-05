@@ -15,7 +15,7 @@
 
 [秦伯恒](https://github.com/bieke823/)
 
-[别克](https://github.com/bieke823/)
+[库西塔尔别克·吾木尔](https://github.com/bieke823/)
     
 
 ---
