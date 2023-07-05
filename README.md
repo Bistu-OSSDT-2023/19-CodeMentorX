@@ -108,6 +108,6 @@ CodeMentorX是一个基于LLM大语言模型的开源项目，旨在为学生提
 
 主页面
 
-![Alt text](pic/main1.png)
-
 ![Alt text](pic/main2.png)
+
+![Alt text](pic/main1.png)
