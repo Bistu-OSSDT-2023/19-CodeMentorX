@@ -104,10 +104,10 @@ CodeMentorX是一个基于LLM大语言模型的开源项目，旨在为学生提
 
 登陆界面
 
-![Alt text](cd78f9757d569c19639e74e4e30eb26.png)
+![Alt text](pic/login.png)
 
 主页面
 
-![Alt text](34fb8324ee66c8a72f0fdc5a6355ae8.png)
+![Alt text](pic/main1.png)
 
-![Alt text](c3ffb42a510a23cf0e7268abbb996b1.png)
+![Alt text](pic/main2.png)
